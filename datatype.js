@@ -1,0 +1,10 @@
+//Number
+//String
+//Boolean
+//Symbol
+//undefined
+//Set
+//Function
+//null
+//Object
+//Array
