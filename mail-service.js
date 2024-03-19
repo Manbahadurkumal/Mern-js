@@ -12,6 +12,7 @@ class MailService{
     }
     receiveEmail = () =>{
         // connection
+        // imap or pop3
     }
 
 }
