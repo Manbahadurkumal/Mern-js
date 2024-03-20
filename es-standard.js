@@ -2,13 +2,23 @@
 // commonjs, modulejs
 // .js, .jsx, .cjs, .mjs, ejs
 // ECMA Script
-
+// 
 // import export 
-
-const test = ()=>{
-
-} 
+ 
 
 //export es5
+//  module.exports = {
+//     test
+//  }
 
+
+// export es6
+export const test = ()=>{
+
+}
+export const testValue = ""
+export class User{
+
+}
+export default Main
 
